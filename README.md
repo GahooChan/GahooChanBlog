@@ -1,2 +1,0 @@
-# GahooChenBlog
-GahooChen's blog
