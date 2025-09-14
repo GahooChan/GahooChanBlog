@@ -1,0 +1,8 @@
+// 自定义样式
+// 将头像设置为圆形
+.vp-blog-hero-image,
+.vp-nav-logo,
+.vp-blogger-avatar {
+  border-radius: 50% !important;
+  object-fit: cover;
+}
