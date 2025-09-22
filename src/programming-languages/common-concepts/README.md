@@ -4,7 +4,11 @@
 
 ## 目录内容
 
-- [进制转换与位运算原理](01-number-systems-bitwise-principles.md)：学习不同进制的表示方法、转换规则以及位运算的数学原理和应用
+- [面向过程编程基础](01-procedural-programming.md)：介绍面向过程编程的基本概念、特点和应用场景
+- [面向对象编程基础](02-object-oriented-programming.md)：介绍面向对象编程的核心原则、概念和设计方法
+- [函数基础概念](03-functions-basics.md)：深入了解函数的定义、类型、参数传递和设计原则
+- [数据结构基础概念](04-data-structures-basics.md)：介绍数据结构的基本概念、常见类型和应用场景
+- [算法基础概念](05-algorithms-basics.md)：介绍算法的基本概念、复杂度分析和常见算法类型
 
 ## 为什么学习这些通用概念？
 

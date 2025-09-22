@@ -42,6 +42,21 @@ export default sidebar({
           prefix: "python/",
           children: [""],
         },
+        {
+          text: "通用概念",
+          prefix: "common-concepts/",
+          children: [""],
+        },
+        {
+          text: "数学计算",
+          prefix: "math-calculations/",
+          children: [""],
+        },
+        {
+          text: "编程工具",
+          prefix: "programming-tools/",
+          children: [""],
+        },
       ],
     },
   ],
