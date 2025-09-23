@@ -4,6 +4,7 @@ export default sidebar({
   "/": [
     "",
     "intro",
+    "blog_story",
     {
       text: "开发问题记录与分享",
       icon: "bug",
