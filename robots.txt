@@ -1,4 +1,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://gahoochen.github.io/GahooChenBlog/sitemap.xml
+Sitemap: https://GahooChan.github.io/GahooChanBlog/sitemap.xml
