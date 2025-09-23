@@ -6,17 +6,17 @@ import sidebar from "./sidebar.js";
 import 'iconify-icon';
 
 export default hopeTheme({
-  hostname: "https://gahoochen.github.io",
+  hostname: "https://GahooChan.github.io",
 
   author: {
-    name: "GahooChen",
-    url: "https://gitee.com/GahooChen",
+    name: "GahooChan",
+    url: "https://gitee.com/GahooChan",
   },
 
   // 设置站点图标
   favicon: "/favicon.ico",
   // 设置 logo
-  logo: "/avatar/GahooChen.png",
+  logo: "/avatar/GahooChan.png",
 
   docsDir: "src",
 
@@ -27,12 +27,12 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "GahooChen的个人博客",
+  footer: "GahooChan的个人博客",
   displayFooter: true,
 
   // 博客相关
   blog: {
-    description: "一个软件工程师，主C++，熟悉Qt、MFC、CLR，C#，Python，Java等等主流编程语言也略懂一二，都做过一些项目",
+    description: "一个软件工程师，主C++，熟悉Qt、MFC、WPF、CLR、.NET、WinUI等技术栈，C#，Python，Java等等主流编程语言也略懂一二，都做过一些项目",
     intro: "/intro.html",
     medias: {
       // 社交平台账号已禁用

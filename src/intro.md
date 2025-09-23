@@ -3,7 +3,7 @@ icon: circle-info
 title: 个人介绍
 ---
 
-## 👋 你好，我是GahooChen
+## 👋 你好，我是GahooChan
 
 一名热爱技术、经历丰富且热衷于解决实际问题的软件工程师。
 
@@ -68,7 +68,7 @@ title: 个人介绍
 
 ## 📫 联系方式
 
-- **GitHub主页**：[https://github.com/GahooChen](https://github.com/GahooChen)
-- **Gitee主页**：[https://gitee.com/GahooChen](https://gitee.com/GahooChen)
+- **GitHub主页**：[https://github.com/GahooChan](https://github.com/GahooChan)
+- **Gitee主页**：[https://gitee.com/GahooChan](https://gitee.com/GahooChan)
 - **QQ/微信号**：2432168423
 

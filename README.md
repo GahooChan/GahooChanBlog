@@ -1,5 +1,5 @@
-# GahooChenBlog
-GahooChen's blog - A VuePress blog powered by vuepress-theme-hope
+# GahooChanBlog
+GahooChan's blog - A VuePress blog powered by vuepress-theme-hope
 
 ## 项目简介
 这是一个基于 VuePress 和 vuepress-theme-hope 的博客项目。

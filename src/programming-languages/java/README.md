@@ -13,17 +13,17 @@ Java是一种广泛使用的计算机编程语言，由詹姆斯·高斯林（Ja
 ## 学习资源
 
 ### 基础语法
-- [Java基础语法](https://github.com/GahooChen/GahooChenBlog/blob/main/src/programming-languages/java/basic-syntax.md)：变量、数据类型、运算符、控制语句等
-- [面向对象编程](https://github.com/GahooChen/GahooChenBlog/blob/main/src/programming-languages/java/oop.md)：类和对象、继承、多态、抽象类和接口
+- [Java基础语法](https://github.com/GahooChan/GahooChanBlog/blob/main/src/programming-languages/java/basic-syntax.md)：变量、数据类型、运算符、控制语句等
+- [面向对象编程](https://github.com/GahooChan/GahooChanBlog/blob/main/src/programming-languages/java/oop.md)：类和对象、继承、多态、抽象类和接口
 
 ### 进阶内容
-- [集合框架](https://github.com/GahooChen/GahooChenBlog/blob/main/src/programming-languages/java/collections-framework.md)：List、Set、Map等集合的使用
-- [异常处理](https://github.com/GahooChen/GahooChenBlog/blob/main/src/programming-languages/java/exception-handling.md)：try-catch-finally语句、异常类型
-- [输入输出](https://github.com/GahooChen/GahooChenBlog/blob/main/src/programming-languages/java/io.md)：文件读写、流操作
+- [集合框架](https://github.com/GahooChan/GahooChanBlog/blob/main/src/programming-languages/java/collections-framework.md)：List、Set、Map等集合的使用
+- [异常处理](https://github.com/GahooChan/GahooChanBlog/blob/main/src/programming-languages/java/exception-handling.md)：try-catch-finally语句、异常类型
+- [输入输出](https://github.com/GahooChan/GahooChanBlog/blob/main/src/programming-languages/java/io.md)：文件读写、流操作
 
 ### Java算法实现
-- [排序算法](https://github.com/GahooChen/GahooChenBlog/blob/main/src/programming-languages/java/sorting-algorithms.md)：冒泡排序、快速排序等
-- [数据结构](https://github.com/GahooChen/GahooChenBlog/blob/main/src/programming-languages/java/data-structures.md)：链表、树、图等数据结构
+- [排序算法](https://github.com/GahooChan/GahooChanBlog/blob/main/src/programming-languages/java/sorting-algorithms.md)：冒泡排序、快速排序等
+- [数据结构](https://github.com/GahooChan/GahooChanBlog/blob/main/src/programming-languages/java/data-structures.md)：链表、树、图等数据结构
 
 ## 学习建议
 

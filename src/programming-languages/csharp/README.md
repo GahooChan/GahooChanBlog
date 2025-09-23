@@ -13,17 +13,17 @@ C#（发音为"See Sharp"）是微软开发的一种现代、面向对象的编�
 ## 学习资源
 
 ### 基础语法
-- [C#基础语法](https://github.com/GahooChen/GahooChenBlog/blob/main/src/programming-languages/csharp/basic-syntax.md)：变量、数据类型、运算符、控制语句等
-- [面向对象编程](https://github.com/GahooChen/GahooChenBlog/blob/main/src/programming-languages/csharp/oop.md)：类和对象、继承、多态、接口
+- [C#基础语法](https://github.com/GahooChan/GahooChanBlog/blob/main/src/programming-languages/csharp/basic-syntax.md)：变量、数据类型、运算符、控制语句等
+- [面向对象编程](https://github.com/GahooChan/GahooChanBlog/blob/main/src/programming-languages/csharp/oop.md)：类和对象、继承、多态、接口
 
 ### 进阶内容
-- [集合与泛型](https://github.com/GahooChen/GahooChenBlog/blob/main/src/programming-languages/csharp/collections-generics.md)：List、Dictionary等集合类的使用
-- [LINQ查询](https://github.com/GahooChen/GahooChenBlog/blob/main/src/programming-languages/csharp/linq.md)：Language Integrated Query的使用
-- [异步编程](https://github.com/GahooChen/GahooChenBlog/blob/main/src/programming-languages/csharp/async-programming.md)：async/await关键字的使用
+- [集合与泛型](https://github.com/GahooChan/GahooChanBlog/blob/main/src/programming-languages/csharp/collections-generics.md)：List、Dictionary等集合类的使用
+- [LINQ查询](https://github.com/GahooChan/GahooChanBlog/blob/main/src/programming-languages/csharp/linq.md)：Language Integrated Query的使用
+- [异步编程](https://github.com/GahooChan/GahooChanBlog/blob/main/src/programming-languages/csharp/async-programming.md)：async/await关键字的使用
 
 ### C#算法实现
-- [常用算法](https://github.com/GahooChen/GahooChenBlog/blob/main/src/programming-languages/csharp/common-algorithms.md)：排序、查找等基本算法
-- [数据结构实现](https://github.com/GahooChen/GahooChenBlog/blob/main/src/programming-languages/csharp/data-structures.md)：链表、栈、队列等数据结构
+- [常用算法](https://github.com/GahooChan/GahooChanBlog/blob/main/src/programming-languages/csharp/common-algorithms.md)：排序、查找等基本算法
+- [数据结构实现](https://github.com/GahooChan/GahooChanBlog/blob/main/src/programming-languages/csharp/data-structures.md)：链表、栈、队列等数据结构
 
 ## 学习建议
 
