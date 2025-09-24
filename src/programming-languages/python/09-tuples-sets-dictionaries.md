@@ -1,3 +1,10 @@
+---
+icon: book-open
+title: 元组、集合和字典：更多Python数据结构
+tags: [Python]
+category: 编程学习
+date: 2025-09-15
+---
 # 元组、集合和字典：更多Python数据结构
 
 在前面的课程中，我们学习了Python中的列表（List）这种数据结构。今天，我们将学习Python中的另外三种重要的数据结构：**元组（Tuple）**、**集合（Set）** 和 **字典（Dictionary）**。这些数据结构各有特点，可以帮助我们解决不同的问题。

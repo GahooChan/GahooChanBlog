@@ -1,3 +1,10 @@
+---
+icon: book-open
+title: Git基础教程
+tags: [编程工具]
+category: 编程学习
+date: 2025-09-16
+---
 # Git基础教程
 
 Git是一个开源的分布式版本控制系统，它可以有效地管理各种规模的项目代码。Git由Linus Torvalds在2005年为了管理Linux内核开发而创建，现已成为世界上最流行的版本控制系统之一。

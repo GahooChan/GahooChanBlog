@@ -1,3 +1,10 @@
+---
+icon: book-open
+title: C++ RAII机制：资源获取即初始化
+tags: [C++]
+category: 编程学习
+date: 2025-09-20
+---
 # C++ RAII机制：资源获取即初始化
 
 上一节课我们学习了C++的异常处理机制。在这节课中，我们将探讨C++的RAII（Resource Acquisition Is Initialization）机制，这是一种与异常处理密切相关的资源管理技术，被广泛认为是C++中最重要的编程范式之一。

@@ -1,3 +1,10 @@
+---
+icon: book-open
+title: 列表（Lists）：Python中的数据集合
+tags: [Python]
+category: 编程学习
+date: 2025-09-15
+---
 # 列表（Lists）：Python中的数据集合
 
 在之前的学习中，我们学习了如何使用变量存储单个数据。但是，在实际编程中，我们经常需要处理一组相关的数据。这时候，我们就需要使用Python中的**列表（List）** 这种数据结构。

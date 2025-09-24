@@ -1,3 +1,10 @@
+---
+icon: book-open
+title: 面向对象编程基础
+tags: [Python]
+category: 编程学习
+date: 2025-09-15
+---
 # 面向对象编程基础
 
 在前面的课程中，我们学习了Python的基本语法、数据结构、函数、模块和文件操作等内容。从本节课开始，我们将进入Python编程中的一个重要概念——面向对象编程（Object-Oriented Programming，简称OOP）。面向对象编程是一种编程范式，它将数据和操作数据的方法封装在一起，形成对象。

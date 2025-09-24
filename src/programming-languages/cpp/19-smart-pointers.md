@@ -1,3 +1,10 @@
+---
+icon: book-open
+title: C++智能指针：自动内存管理
+tags: [C++]
+category: 编程学习
+date: 2025-09-20
+---
 # C++智能指针：自动内存管理
 
 上一节课我们学习了C++的移动语义和右值引用，这些特性可以显著提高程序的性能。在这节课中，我们将探讨C++11引入的智能指针，这是C++自动内存管理的重要工具，也是RAII（Resource Acquisition Is Initialization）机制的具体实现。
