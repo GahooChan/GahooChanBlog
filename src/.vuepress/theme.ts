@@ -35,7 +35,11 @@ export default hopeTheme({
     description: "一个软件工程师，主C++，熟悉Qt、MFC、WPF、CLR、.NET、WinUI等技术栈，C#，Python，Java等等主流编程语言也略懂一二，都做过一些项目",
     intro: "/intro.html",
     medias: {
-      // 社交平台账号已禁用
+      // 社交平台账号配置
+      github: "https://github.com/GahooChan",
+      gitee: "https://gitee.com/GahooChan",
+      qq: "/intro.html",
+      wechat: "/intro.html",
     }
   },
   
