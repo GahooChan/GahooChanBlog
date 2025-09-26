@@ -1,6 +1,6 @@
 ---
 icon: book-open
-title: 博客创建的心路历程
+title: 第一个C语言程序
 tags: [C语言]
 category: 编程学习
 date: 2025-09-24
