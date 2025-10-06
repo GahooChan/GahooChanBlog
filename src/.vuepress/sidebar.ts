@@ -26,7 +26,8 @@ export default sidebar({
             "02-object-oriented-programming.md",
             "03-functions-basics.md",
             "04-data-structures-basics.md",
-            "05-algorithms-basics.md"
+            "05-algorithms-basics.md",
+            "06-design-patterns.md"
           ]
         },
         {
